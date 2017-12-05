@@ -17,6 +17,6 @@ To run the simulation:
   
 You are welcome to fork the project to use remote modules: remote RMQ server and remote clients.
 
-Credits to:\n
-http://www.rabbitmq.com and 
+Credits to:<br>
+http://www.rabbitmq.com and <br> 
 Microsoft Visual Studio 2015
