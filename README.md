@@ -3,7 +3,8 @@ A console app that simulates data communication (e.g. chatting) between two or m
 
 Requirement:
 1. A running RMQ server using default connection parameters (changeable in the codes). 
-2. This project needs internet connection to collect all necessary dependencies via NuGet package manager (automatically on build command).
+2. Visual Studio 2015 for development IDE.
+3. This project needs internet connection to collect all necessary dependencies via NuGet package manager (automatically on build command).
 
 To run the simulation:
 1. Make sure the RMQ is running.
